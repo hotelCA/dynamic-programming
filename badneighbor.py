@@ -94,4 +94,4 @@ def bad_neighbors():
 
     return max(max_at_neighbor)
 
-print "Max donation = {}".format(bad_neighbors())
+print("Max donation = {}".format(bad_neighbors()))
